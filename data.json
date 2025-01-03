@@ -1,0 +1,73 @@
+{
+    "database":[
+    {
+        "question": "What is the difference between supervised and unsupervised learning?"
+    },
+    {
+        "question": "Explain the bias-variance tradeoff."
+    },
+    {
+        "question": "How does a support vector machine (SVM) work?"
+    },
+    {
+        "question": "What are the common activation functions used in neural networks?"
+    },
+    {
+        "question": "Describe the process of training a neural network."
+    },
+    {
+        "question": "What is overfitting, and how can it be prevented?"
+    },
+    {
+        "question": "Explain the concept of gradient descent."
+    },
+    {
+        "question": "How do you handle missing data in a dataset?"
+    },
+    {
+        "question": "What is cross-validation, and why is it used?"
+    },
+    {
+        "question": "What is the purpose of a confusion matrix?"
+    },
+    {
+        "question": "Explain the difference between precision and recall."
+    },
+    {
+        "question": "What are ensemble methods in machine learning?"
+    },
+    {
+        "question": "How does the k-nearest neighbors (KNN) algorithm work?"
+    },
+    {
+        "question": "Describe the use of regularization in machine learning models."
+    },
+    {
+        "question": "What are generative adversarial networks (GANs)?"
+    },
+    {
+        "question": "What is transfer learning, and when is it useful?"
+    },
+    {
+        "question": "How do you evaluate the performance of a classification model?"
+    },
+    {
+        "question": "What are some common techniques for feature selection?"
+    },
+    {
+        "question": "What is the role of a learning rate in training neural networks?"
+    },
+    {
+        "question": "Explain the difference between bagging and boosting."
+    },
+    {
+        "question": "What are the advantages and disadvantages of decision trees?"
+    },
+    {
+        "question": "How can clustering algorithms be evaluated?"
+    },
+    {
+        "question": "What is reinforcement learning, and how does it differ from supervised learning?"
+    }
+]
+}

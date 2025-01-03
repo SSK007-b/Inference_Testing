@@ -1,0 +1,44 @@
+{
+    "database": [
+    {
+        "question": "What is the difference between supervised and unsupervised learning?",
+        "answer": "Supervised learning involves training a model on labeled data, where the desired output is known. In contrast, unsupervised learning involves training a model on unlabeled data and the model tries to learn the patterns and structure from the data without any explicit labels."
+    },
+    {
+        "question": "Explain the bias-variance tradeoff.",
+        "answer": "The bias-variance tradeoff is a balance that needs to be achieved when training machine learning models. High bias means the model is too simple and cannot capture the underlying patterns in the data (underfitting). High variance means the model is too complex and captures noise in the data as if it were patterns (overfitting). The goal is to find a model with low bias and low variance."
+    },
+    {
+        "question": "What are the key differences between a convolutional neural network (CNN) and a recurrent neural network (RNN)?",
+        "answer": "CNNs are primarily used for tasks involving spatial data, such as image classification, by using convolutional layers to process data with a grid-like topology. RNNs are designed for sequential data, such as time series or natural language, by using recurrent connections to maintain information about previous inputs in the sequence."
+    },
+    {
+        "question": "How does a support vector machine (SVM) work?",
+        "answer": "SVMs are supervised learning models used for classification and regression tasks. They work by finding the hyperplane that best separates the classes in the feature space. SVMs use support vectors, which are the data points closest to the hyperplane, to define the position of the hyperplane."
+    },
+    {
+        "question": "What are the common activation functions used in neural networks?",
+        "answer": "Common activation functions include Sigmoid, Tanh, ReLU (Rectified Linear Unit), Leaky ReLU, and Softmax. Each of these functions introduces non-linearity to the model, allowing it to learn more complex patterns."
+    },
+    {
+        "question": "What is overfitting, and how can it be prevented?",
+        "answer": "Overfitting occurs when a model learns the training data too well, including its noise and outliers, resulting in poor performance on new, unseen data. It can be prevented by using techniques such as cross-validation, regularization, pruning, using more training data, and simplifying the model."
+    },
+    {
+        "question": "Explain the concept of gradient descent.",
+        "answer": "Gradient descent is an optimization algorithm used to minimize the loss function in machine learning models. It iteratively adjusts the model's parameters in the direction of the negative gradient of the loss function with respect to the parameters to find the optimal values that minimize the loss."
+    },
+    {
+        "question": "What is cross-validation, and why is it used?",
+        "answer": "Cross-validation is a technique used to assess the performance of a machine learning model by dividing the dataset into multiple folds. The model is trained on some folds and tested on the remaining fold. This process is repeated multiple times to ensure that the model's performance is evaluated on different subsets of data, providing a more reliable estimate of its generalizability."
+    },
+    {
+        "question": "What is the purpose of a confusion matrix?",
+        "answer": "A confusion matrix is used to evaluate the performance of a classification model. It shows the number of true positives, true negatives, false positives, and false negatives, allowing for the calculation of various performance metrics such as accuracy, precision, recall, and F1 score."
+    },
+    {
+        "question": "Explain the difference between precision and recall.",
+        "answer": "Precision is the ratio of true positive predictions to the total predicted positives (true positives + false positives). It indicates how many of the predicted positive instances are actually positive. Recall, or sensitivity, is the ratio of true positive predictions to the total actual positives (true positives + false negatives). It indicates how many of the actual positive instances were correctly predicted by the model."
+    }
+]
+}
